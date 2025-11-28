@@ -1,0 +1,31 @@
+body{
+    padding : 30px;
+    margin : 50px;
+    background-color: white !important;
+    justify-content : center;
+}
+
+button{
+    width : 40px;
+    height : 40px;
+    font-size : 20px;
+    background-color : rgb(138, 128, 128);
+}
+
+#display{
+    width : 130px;
+    background-color: rgb(30, 87, 30);
+    padding : 20px;
+    font-size : 20px;
+    border-radius : 10px;
+    text-align : left;
+}
+
+.container{
+    width: 180px;          /* the calculator width */
+    margin: 20px auto;     /* centers it */
+    padding: 20px;
+    background-color : rgb(203, 190, 190);
+    border: 2px solid black;
+    border-radius: 20px;
+}
